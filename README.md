@@ -1,6 +1,5 @@
 # MiniCleaningRobots
 Use this package to set up an army of mini cleaning Robots!
-# CrazySprinklers2.0
 
 ## Table of Contents
 1. [General Info](#general-info)
